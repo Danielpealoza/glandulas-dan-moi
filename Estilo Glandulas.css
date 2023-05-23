@@ -1,0 +1,57 @@
+body{
+
+background-color: rgb(209, 250, 209);
+}
+
+
+.Nenemalo{
+        color: #009;
+   
+        text-decoration: none;
+
+    }
+
+
+
+
+header{
+background-color: rgb(163, 255, 140);
+width: 100%;
+height: 90px;
+clear: both;
+content: '' ;
+display: table;
+}
+
+
+.Cuerpos{
+display: flex;
+justify-content: center;
+}
+
+.Title{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.LOSNENEs{
+    display: flex;
+    justify-content: right;
+    
+
+}
+
+
+.ñññ{
+    
+    
+        color: #009;
+   
+        text-decoration: none;
+    }
+
+
+.Tema1{display: flex; justify-content: center;} .Tema2{display: flex; justify-content: center;} .Tema3{display: flex; justify-content: center;} 
+.Tema4{display: flex; justify-content: center;}  .Tema5{display: flex; justify-content: center;} .Tema6{display: flex; justify-content: center;}  .Tema7{display: flex; justify-content: center;} 
